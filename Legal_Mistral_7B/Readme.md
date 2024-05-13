@@ -1,6 +1,6 @@
 #  Enhancing Legal Expertise with Advanced AI
 - **Introduction**:
-In the realm of legal practice, harnessing the power of cutting-edge technology is paramount to achieving greater efficiency and accuracy. The Legal LLM project, spearheaded by Viswash Srivastava, ventures into this territory by leveraging state-of-the-art AI capabilities, notably fine-tuning the Mistral 7b model to address specific legal challenges in Company Law 2013.
+In the realm of legal practice, harnessing the power of cutting-edge technology is paramount to achieving greater efficiency and accuracy. The Legal LLM project, ventures into this territory by leveraging state-of-the-art AI capabilities, notably fine-tuning the Mistral 7b model to address specific legal challenges in Company Law 2013.
 
 
 - **Situation**:

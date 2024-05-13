@@ -1,7 +1,7 @@
-# Traffic_Signal_Time_Optimisation with Computer Vision
+# Traffic Signal Time Optimisation with Computer Vision
 
 **Introduction:**
-The domain of transportation and traffic management is undergoing a transformative shift, driven by the integration of advanced computer vision techniques. Viswash Srivastava leads a groundbreaking project that harnesses the power of computer vision to optimize traffic signal timing and enhance road efficiency.
+The domain of transportation and traffic management is undergoing a transformative shift, driven by the integration of advanced computer vision techniques. A groundbreaking project that harnesses the power of computer vision to optimize traffic signal timing and enhance road efficiency.
 
 **Situation:**
 - Traditional traffic management systems often face challenges in dynamically adjusting signal timings based on real-time traffic conditions, leading to congestion and delays.

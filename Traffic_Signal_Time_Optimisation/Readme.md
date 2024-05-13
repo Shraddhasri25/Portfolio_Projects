@@ -19,8 +19,8 @@ The domain of transportation and traffic management is undergoing a transformati
   
 **Results:**
 - The project's outcomes include:
-  - A highly accurate computer vision system capable of recognizing Yulu bikes and counting diverse vehicle types in traffic snapshots.
-  - Precise calculations of the time required for vehicles to traverse the intersection, facilitating optimized traffic signal timing.
+  - A highly 97% accurate computer vision system capable of recognizing Yulu bikes and counting diverse vehicle types in traffic snapshots.
+  - Precise calculations of the time required for vehicles to traverse the intersection, facilitating optimized traffic signal timing by 29%.
   - A user-friendly simulation using Pygame, showcasing the model's capabilities in a real-time, interactive environment.
 
 By leveraging computer vision technologies and innovative algorithmic solutions, this project sets a new standard in traffic management, paving the way for smarter, more efficient urban transportation systems.
